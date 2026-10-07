@@ -1,0 +1,43 @@
+# Android / Gradle
+.gradle/
+build/
+*/build/
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Generated APK
+*.apk
+*.aab
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Python / ML large files
+dataset/
+datasets/
+test_images/
+train_images/
+validation_images/
+models/
+model/
+*.h5
+*.keras
+*.tflite
+*.pth
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,306 @@
+{
+  "Apple___Apple_scab": {
+    "name_en": "Apple Scab",
+    "name_ta": "ஆப்பிள் ஸ்கேப்",
+    "description_en": "Fungal disease causing dark, scabby spots on leaves and fruit.",
+    "description_ta": "இலைகள் மற்றும் பழங்களில் கருமையான, சொறி போன்ற புள்ளிகளை ஏற்படுத்தும் பூஞ்சை நோய்.",
+    "solution_en": "Remove fallen leaves, prune for airflow, apply a fungicide labeled for apple scab in early spring.",
+    "solution_ta": "விழுந்த இலைகளை அகற்றவும், காற்றோட்டத்திற்காக கிளைகளை கத்தரிக்கவும், வசந்த காலத்தில் பூஞ்சைக் கொல்லி பயன்படுத்தவும்."
+  },
+  "Apple___Black_rot": {
+    "name_en": "Apple Black Rot",
+    "name_ta": "ஆப்பிள் கருப்பு அழுகல்",
+    "description_en": "Fungal infection causing brown/black rotting spots on leaves, fruit, and bark.",
+    "description_ta": "இலைகள், பழங்கள் மற்றும் பட்டையில் பழுப்பு/கருப்பு அழுகல் புள்ளிகளை ஏற்படுத்தும் பூஞ்சை தொற்று.",
+    "solution_en": "Prune out dead/diseased wood, remove mummified fruit, apply fungicide during growing season.",
+    "solution_ta": "இறந்த/நோய் கிளைகளை வெட்டவும், பாழான பழங்களை அகற்றவும், வளர்ச்சி காலத்தில் பூஞ்சைக் கொல்லி தெளிக்கவும்."
+  },
+  "Apple___Cedar_apple_rust": {
+    "name_en": "Cedar Apple Rust",
+    "name_ta": "சிடார் ஆப்பிள் துரு",
+    "description_en": "Fungal disease producing orange-yellow spots on apple leaves; needs a nearby cedar tree host.",
+    "description_ta": "ஆப்பிள் இலைகளில் ஆரஞ்சு-மஞ்சள் புள்ளிகளை உண்டாக்கும் பூஞ்சை நோய்; அருகில் சிடார் மரம் தேவை.",
+    "solution_en": "Remove nearby cedar/juniper hosts if possible, apply preventive fungicide in spring.",
+    "solution_ta": "முடிந்தால் அருகிலுள்ள சிடார்/ஜூனிபர் மரங்களை அகற்றவும், வசந்த காலத்தில் தடுப்பு பூஞ்சைக் கொல்லி பயன்படுத்தவும்."
+  },
+  "Apple___healthy": {
+    "name_en": "Healthy Apple Leaf",
+    "name_ta": "ஆரோக்கியமான ஆப்பிள் இலை",
+    "description_en": "No disease detected. The leaf appears healthy.",
+    "description_ta": "நோய் எதுவும் கண்டறியப்படவில்லை. இலை ஆரோக்கியமாக உள்ளது.",
+    "solution_en": "Continue regular watering, balanced fertilizing, and routine monitoring.",
+    "solution_ta": "வழக்கமான நீர்ப்பாசனம், சமச்சீர் உரமிடல் மற்றும் தொடர் கண்காணிப்பைத் தொடரவும்."
+  },
+  "Blueberry___healthy": {
+    "name_en": "Healthy Blueberry Leaf",
+    "name_ta": "ஆரோக்கியமான ப்ளூபெர்ரி இலை",
+    "description_en": "No disease detected. The leaf appears healthy.",
+    "description_ta": "நோய் எதுவும் கண்டறியப்படவில்லை. இலை ஆரோக்கியமாக உள்ளது.",
+    "solution_en": "Maintain acidic soil, consistent moisture, and good sunlight.",
+    "solution_ta": "அமிலத்தன்மையுள்ள மண், நிலையான ஈரப்பதம் மற்றும் நல்ல சூரிய ஒளியை பராமரிக்கவும்."
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "name_en": "Cherry Powdery Mildew",
+    "name_ta": "செர்ரி பவுடரி மில்டியூ",
+    "description_en": "Fungal disease causing a white powdery coating on leaves.",
+    "description_ta": "இலைகளில் வெள்ளை தூள் போன்ற பூச்சை ஏற்படுத்தும் பூஞ்சை நோய்.",
+    "solution_en": "Improve air circulation, avoid overhead watering, apply sulfur-based fungicide.",
+    "solution_ta": "காற்றோட்டத்தை மேம்படுத்தவும், மேலிருந்து நீர் பாய்ச்சுவதை தவிர்க்கவும், சல்பர் அடிப்படையிலான பூஞ்சைக் கொல்லி பயன்படுத்தவும்."
+  },
+  "Cherry_(including_sour)___healthy": {
+    "name_en": "Healthy Cherry Leaf",
+    "name_ta": "ஆரோக்கியமான செர்ரி இலை",
+    "description_en": "No disease detected. The leaf appears healthy.",
+    "description_ta": "நோய் எதுவும் கண்டறியப்படவில்லை. இலை ஆரோக்கியமாக உள்ளது.",
+    "solution_en": "Continue regular care and monitoring.",
+    "solution_ta": "வழக்கமான பராமரிப்பு மற்றும் கண்காணிப்பைத் தொடரவும்."
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "name_en": "Corn Gray Leaf Spot",
+    "name_ta": "சோள சாம்பல் இலைப்புள்ளி",
+    "description_en": "Fungal disease causing rectangular gray-brown lesions on corn leaves.",
+    "description_ta": "சோள இலைகளில் செவ்வக சாம்பல்-பழுப்பு புண்களை ஏற்படுத்தும் பூஞ்சை நோய்.",
+    "solution_en": "Rotate crops, use resistant hybrids, apply fungicide if severe.",
+    "solution_ta": "பயிர் சுழற்சி செய்யவும், எதிர்ப்பு சக்தி கொண்ட வகைகளை பயன்படுத்தவும், தீவிரமாக இருந்தால் பூஞ்சைக் கொல்லி தெளிக்கவும்."
+  },
+  "Corn_(maize)___Common_rust_": {
+    "name_en": "Corn Common Rust",
+    "name_ta": "சோள பொதுவான துரு",
+    "description_en": "Fungal disease causing reddish-brown pustules on both leaf surfaces.",
+    "description_ta": "இலையின் இரு பக்கங்களிலும் சிவப்பு-பழுப்பு நிற கொப்புளங்களை ஏற்படுத்தும் பூஞ்சை நோய்.",
+    "solution_en": "Plant resistant hybrids, apply fungicide early if infection is heavy.",
+    "solution_ta": "எதிர்ப்பு சக்தி கொண்ட வகைகளை நடவும், தொற்று அதிகமாக இருந்தால் ஆரம்பத்திலேயே பூஞ்சைக் கொல்லி தெளிக்கவும்."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "name_en": "Corn Northern Leaf Blight",
+    "name_ta": "சோள வடக்கு இலை கருகல்",
+    "description_en": "Fungal disease causing long cigar-shaped gray-green lesions.",
+    "description_ta": "நீண்ட சிகார் வடிவ சாம்பல்-பச்சை புண்களை ஏற்படுத்தும் பூஞ்சை நோய்.",
+    "solution_en": "Rotate crops, till residue, use resistant varieties, apply fungicide if needed.",
+    "solution_ta": "பயிர் சுழற்சி செய்யவும், எச்சங்களை உழவும், எதிர்ப்பு வகைகளை பயன்படுத்தவும்."
+  },
+  "Corn_(maize)___healthy": {
+    "name_en": "Healthy Corn Leaf",
+    "name_ta": "ஆரோக்கியமான சோள இலை",
+    "description_en": "No disease detected. The leaf appears healthy.",
+    "description_ta": "நோய் எதுவும் கண்டறியப்படவில்லை. இலை ஆரோக்கியமாக உள்ளது.",
+    "solution_en": "Continue regular care and monitoring.",
+    "solution_ta": "வழக்கமான பராமரிப்பு மற்றும் கண்காணிப்பைத் தொடரவும்."
+  },
+  "Grape___Black_rot": {
+    "name_en": "Grape Black Rot",
+    "name_ta": "திராட்சை கருப்பு அழுகல்",
+    "description_en": "Fungal disease causing brown circular spots on leaves and rotted fruit.",
+    "description_ta": "இலைகளில் பழுப்பு வட்ட புள்ளிகள் மற்றும் அழுகிய பழங்களை ஏற்படுத்தும் பூஞ்சை நோய்.",
+    "solution_en": "Remove mummified berries, prune for airflow, apply fungicide from bud break.",
+    "solution_ta": "பாழான திராட்சைகளை அகற்றவும், காற்றோட்டத்திற்காக கத்தரிக்கவும், பூஞ்சைக் கொல்லி தெளிக்கவும்."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "name_en": "Grape Esca (Black Measles)",
+    "name_ta": "திராட்சை எஸ்கா",
+    "description_en": "Fungal trunk disease causing striped leaf discoloration and berry spotting.",
+    "description_ta": "இலையில் கோடிட்ட நிற மாற்றம் மற்றும் பழத்தில் புள்ளிகளை ஏற்படுத்தும் தண்டு நோய்.",
+    "solution_en": "Prune out infected wood, avoid trunk wounds, no full cure - focus on prevention.",
+    "solution_ta": "பாதிக்கப்பட்ட மரப்பகுதியை வெட்டவும், காயங்களை தவிர்க்கவும், தடுப்பே சிறந்த வழி."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "name_en": "Grape Leaf Blight",
+    "name_ta": "திராட்சை இலை கருகல்",
+    "description_en": "Fungal disease causing brown angular spots on grape leaves.",
+    "description_ta": "திராட்சை இலைகளில் பழுப்பு கோண புள்ளிகளை ஏற்படுத்தும் பூஞ்சை நோய்.",
+    "solution_en": "Remove infected leaves, improve airflow, apply copper-based fungicide.",
+    "solution_ta": "பாதிக்கப்பட்ட இலைகளை அகற்றவும், காற்றோட்டத்தை மேம்படுத்தவும், காப்பர் அடிப்படையிலான பூஞ்சைக் கொல்லி பயன்படுத்தவும்."
+  },
+  "Grape___healthy": {
+    "name_en": "Healthy Grape Leaf",
+    "name_ta": "ஆரோக்கியமான திராட்சை இலை",
+    "description_en": "No disease detected. The leaf appears healthy.",
+    "description_ta": "நோய் எதுவும் கண்டறியப்படவில்லை. இலை ஆரோக்கியமாக உள்ளது.",
+    "solution_en": "Continue regular care and monitoring.",
+    "solution_ta": "வழக்கமான பராமரிப்பு மற்றும் கண்காணிப்பைத் தொடரவும்."
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "name_en": "Citrus Greening (HLB)",
+    "name_ta": "சிட்ரஸ் பசுமை நோய்",
+    "description_en": "Bacterial disease spread by psyllid insects, causing yellow mottled leaves and bitter fruit. No cure.",
+    "description_ta": "பூச்சிகள் மூலம் பரவும் பாக்டீரியா நோய், மஞ்சள் புள்ளி இலைகள் மற்றும் கசப்பான பழங்களை ஏற்படுத்தும். குணப்படுத்த முடியாது.",
+    "solution_en": "Remove infected trees, control psyllid insects, use certified disease-free saplings.",
+    "solution_ta": "பாதிக்கப்பட்ட மரங்களை அகற்றவும், பூச்சிகளை கட்டுப்படுத்தவும், சான்றளிக்கப்பட்ட நோயற்ற நாற்றுகளை பயன்படுத்தவும்."
+  },
+  "Peach___Bacterial_spot": {
+    "name_en": "Peach Bacterial Spot",
+    "name_ta": "பீச் பாக்டீரியா புள்ளி",
+    "description_en": "Bacterial disease causing small dark spots on leaves and fruit.",
+    "description_ta": "இலைகள் மற்றும் பழங்களில் சிறிய கருமையான புள்ளிகளை ஏற்படுத்தும் பாக்டீரியா நோய்.",
+    "solution_en": "Use resistant varieties, apply copper spray during dormant season, avoid overhead irrigation.",
+    "solution_ta": "எதிர்ப்பு வகைகளை பயன்படுத்தவும், உறக்க காலத்தில் காப்பர் தெளிக்கவும், மேலிருந்து நீர்ப்பாசனத்தை தவிர்க்கவும்."
+  },
+  "Peach___healthy": {
+    "name_en": "Healthy Peach Leaf",
+    "name_ta": "ஆரோக்கியமான பீச் இலை",
+    "description_en": "No disease detected. The leaf appears healthy.",
+    "description_ta": "நோய் எதுவும் கண்டறியப்படவில்லை. இலை ஆரோக்கியமாக உள்ளது.",
+    "solution_en": "Continue regular care and monitoring.",
+    "solution_ta": "வழக்கமான பராமரிப்பு மற்றும் கண்காணிப்பைத் தொடரவும்."
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "name_en": "Bell Pepper Bacterial Spot",
+    "name_ta": "குடைமிளகாய் பாக்டீரியா புள்ளி",
+    "description_en": "Bacterial disease causing water-soaked spots that turn brown on leaves and fruit.",
+    "description_ta": "இலைகள் மற்றும் பழங்களில் நீர் ஊறிய புள்ளிகள் பழுப்பு நிறமாக மாறும் பாக்டீரியா நோய்.",
+    "solution_en": "Use disease-free seeds, rotate crops, apply copper-based bactericide.",
+    "solution_ta": "நோயற்ற விதைகளை பயன்படுத்தவும், பயிர் சுழற்சி செய்யவும், காப்பர் அடிப்படையிலான பாக்டீரியா கொல்லி பயன்படுத்தவும்."
+  },
+  "Pepper,_bell___healthy": {
+    "name_en": "Healthy Bell Pepper Leaf",
+    "name_ta": "ஆரோக்கியமான குடைமிளகாய் இலை",
+    "description_en": "No disease detected. The leaf appears healthy.",
+    "description_ta": "நோய் எதுவும் கண்டறியப்படவில்லை. இலை ஆரோக்கியமாக உள்ளது.",
+    "solution_en": "Continue regular care and monitoring.",
+    "solution_ta": "வழக்கமான பராமரிப்பு மற்றும் கண்காணிப்பைத் தொடரவும்."
+  },
+  "Potato___Early_blight": {
+    "name_en": "Potato Early Blight",
+    "name_ta": "உருளைக்கிழங்கு ஆரம்ப கருகல்",
+    "description_en": "Fungal disease causing dark concentric-ring spots on lower leaves.",
+    "description_ta": "கீழ் இலைகளில் இருண்ட வளைய புள்ளிகளை ஏற்படுத்தும் பூஞ்சை நோய்.",
+    "solution_en": "Rotate crops, remove infected leaves, apply fungicide, avoid wetting foliage.",
+    "solution_ta": "பயிர் சுழற்சி செய்யவும், பாதிக்கப்பட்ட இலைகளை அகற்றவும், பூஞ்சைக் கொல்லி தெளிக்கவும்."
+  },
+  "Potato___Late_blight": {
+    "name_en": "Potato Late Blight",
+    "name_ta": "உருளைக்கிழங்கு தாமத கருகல்",
+    "description_en": "Serious fungal-like disease causing dark water-soaked lesions; spreads fast in cool, wet weather.",
+    "description_ta": "இருண்ட நீர் ஊறிய புண்களை ஏற்படுத்தும் கடுமையான நோய்; குளிர், ஈரமான வானிலையில் வேகமாக பரவும்.",
+    "solution_en": "Remove and destroy infected plants immediately, apply fungicide preventively, avoid overhead watering.",
+    "solution_ta": "பாதிக்கப்பட்ட செடிகளை உடனடியாக அகற்றி அழிக்கவும், தடுப்பு பூஞ்சைக் கொல்லி தெளிக்கவும்."
+  },
+  "Potato___healthy": {
+    "name_en": "Healthy Potato Leaf",
+    "name_ta": "ஆரோக்கியமான உருளைக்கிழங்கு இலை",
+    "description_en": "No disease detected. The leaf appears healthy.",
+    "description_ta": "நோய் எதுவும் கண்டறியப்படவில்லை. இலை ஆரோக்கியமாக உள்ளது.",
+    "solution_en": "Continue regular care and monitoring.",
+    "solution_ta": "வழக்கமான பராமரிப்பு மற்றும் கண்காணிப்பைத் தொடரவும்."
+  },
+  "Raspberry___healthy": {
+    "name_en": "Healthy Raspberry Leaf",
+    "name_ta": "ஆரோக்கியமான ராஸ்பெர்ரி இலை",
+    "description_en": "No disease detected. The leaf appears healthy.",
+    "description_ta": "நோய் எதுவும் கண்டறியப்படவில்லை. இலை ஆரோக்கியமாக உள்ளது.",
+    "solution_en": "Continue regular care and monitoring.",
+    "solution_ta": "வழக்கமான பராமரிப்பு மற்றும் கண்காணிப்பைத் தொடரவும்."
+  },
+  "Soybean___healthy": {
+    "name_en": "Healthy Soybean Leaf",
+    "name_ta": "ஆரோக்கியமான சோயாபீன் இலை",
+    "description_en": "No disease detected. The leaf appears healthy.",
+    "description_ta": "நோய் எதுவும் கண்டறியப்படவில்லை. இலை ஆரோக்கியமாக உள்ளது.",
+    "solution_en": "Continue regular care and monitoring.",
+    "solution_ta": "வழக்கமான பராமரிப்பு மற்றும் கண்காணிப்பைத் தொடரவும்."
+  },
+  "Squash___Powdery_mildew": {
+    "name_en": "Squash Powdery Mildew",
+    "name_ta": "பூசணி பவுடரி மில்டியூ",
+    "description_en": "Fungal disease causing white powdery patches on leaves.",
+    "description_ta": "இலைகளில் வெள்ளை தூள் திட்டுகளை ஏற்படுத்தும் பூஞ்சை நோய்.",
+    "solution_en": "Improve air circulation, apply sulfur or neem-based spray, avoid overhead watering.",
+    "solution_ta": "காற்றோட்டத்தை மேம்படுத்தவும், சல்பர் அல்லது வேப்ப தெளிப்பு பயன்படுத்தவும்."
+  },
+  "Strawberry___Leaf_scorch": {
+    "name_en": "Strawberry Leaf Scorch",
+    "name_ta": "ஸ்ட்ராபெரி இலை கருகல்",
+    "description_en": "Fungal disease causing purple-brown spots that merge, giving a scorched look.",
+    "description_ta": "ஊதா-பழுப்பு புள்ளிகள் இணைந்து கருகிய தோற்றத்தை ஏற்படுத்தும் பூஞ்சை நோய்.",
+    "solution_en": "Remove infected leaves after harvest, improve airflow, apply fungicide.",
+    "solution_ta": "அறுவடைக்குப் பிறகு பாதிக்கப்பட்ட இலைகளை அகற்றவும், பூஞ்சைக் கொல்லி தெளிக்கவும்."
+  },
+  "Strawberry___healthy": {
+    "name_en": "Healthy Strawberry Leaf",
+    "name_ta": "ஆரோக்கியமான ஸ்ட்ராபெரி இலை",
+    "description_en": "No disease detected. The leaf appears healthy.",
+    "description_ta": "நோய் எதுவும் கண்டறியப்படவில்லை. இலை ஆரோக்கியமாக உள்ளது.",
+    "solution_en": "Continue regular care and monitoring.",
+    "solution_ta": "வழக்கமான பராமரிப்பு மற்றும் கண்காணிப்பைத் தொடரவும்."
+  },
+  "Tomato___Bacterial_spot": {
+    "name_en": "Tomato Bacterial Spot",
+    "name_ta": "தக்காளி பாக்டீரியா புள்ளி",
+    "description_en": "Bacterial disease causing small dark, greasy-looking spots on leaves and fruit.",
+    "description_ta": "இலைகள் மற்றும் பழங்களில் சிறிய, எண்ணெய் போன்ற தோற்றமுள்ள புள்ளிகளை ஏற்படுத்தும் பாக்டீரியா நோய்.",
+    "solution_en": "Use disease-free seeds, avoid overhead watering, apply copper-based spray.",
+    "solution_ta": "நோயற்ற விதைகளை பயன்படுத்தவும், காப்பர் அடிப்படையிலான தெளிப்பு பயன்படுத்தவும்."
+  },
+  "Tomato___Early_blight": {
+    "name_en": "Tomato Early Blight",
+    "name_ta": "தக்காளி ஆரம்ப கருகல்",
+    "description_en": "Fungal disease causing dark concentric-ring spots on older leaves first.",
+    "description_ta": "பழைய இலைகளில் முதலில் இருண்ட வளைய புள்ளிகளை ஏற்படுத்தும் பூஞ்சை நோய்.",
+    "solution_en": "Remove lower infected leaves, mulch soil, rotate crops, apply fungicide.",
+    "solution_ta": "கீழ் பாதிக்கப்பட்ட இலைகளை அகற்றவும், பயிர் சுழற்சி செய்யவும், பூஞ்சைக் கொல்லி தெளிக்கவும்."
+  },
+  "Tomato___Late_blight": {
+    "name_en": "Tomato Late Blight",
+    "name_ta": "தக்காளி தாமத கருகல்",
+    "description_en": "Serious disease causing large dark water-soaked patches; can destroy a crop within days.",
+    "description_ta": "பெரிய இருண்ட நீர் ஊறிய திட்டுகளை ஏற்படுத்தும் கடுமையான நோய்; சில நாட்களில் பயிரை அழிக்கக்கூடும்.",
+    "solution_en": "Remove and destroy infected plants immediately, apply fungicide preventively, avoid wetting leaves.",
+    "solution_ta": "பாதிக்கப்பட்ட செடிகளை உடனடியாக அகற்றி அழிக்கவும், தடுப்பு பூஞ்சைக் கொல்லி தெளிக்கவும்."
+  },
+  "Tomato___Leaf_Mold": {
+    "name_en": "Tomato Leaf Mold",
+    "name_ta": "தக்காளி இலை பூஞ்சணம்",
+    "description_en": "Fungal disease causing yellow spots on top of leaves and gray mold underneath, common in humid greenhouses.",
+    "description_ta": "இலையின் மேற்பரப்பில் மஞ்சள் புள்ளிகள் மற்றும் அடியில் சாம்பல் பூஞ்சணம் ஏற்படுத்தும் நோய்.",
+    "solution_en": "Improve ventilation, reduce humidity, apply fungicide, remove infected leaves.",
+    "solution_ta": "காற்றோட்டத்தை மேம்படுத்தவும், ஈரப்பதத்தை குறைக்கவும், பூஞ்சைக் கொல்லி தெளிக்கவும்."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "name_en": "Tomato Septoria Leaf Spot",
+    "name_ta": "தக்காளி செப்டோரியா இலைப்புள்ளி",
+    "description_en": "Fungal disease causing small circular spots with dark borders and gray centers.",
+    "description_ta": "இருண்ட விளிம்புகள் மற்றும் சாம்பல் மையங்களுடன் சிறிய வட்ட புள்ளிகளை ஏற்படுத்தும் பூஞ்சை நோய்.",
+    "solution_en": "Remove infected lower leaves, mulch, avoid overhead watering, apply fungicide.",
+    "solution_ta": "பாதிக்கப்பட்ட கீழ் இலைகளை அகற்றவும், பூஞ்சைக் கொல்லி தெளிக்கவும்."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "name_en": "Tomato Spider Mites",
+    "name_ta": "தக்காளி சிலந்தி பூச்சி",
+    "description_en": "Tiny pest infestation causing stippled, yellowing leaves with fine webbing.",
+    "description_ta": "நுண்ணிய பூச்சி தாக்குதலால் இலைகள் புள்ளி புள்ளியாக மஞ்சளாகி, மெல்லிய வலை தெரியும்.",
+    "solution_en": "Spray water to dislodge mites, use insecticidal soap or neem oil, encourage natural predators.",
+    "solution_ta": "நீர் தெளித்து பூச்சிகளை அகற்றவும், வேப்ப எண்ணெய் பயன்படுத்தவும்."
+  },
+  "Tomato___Target_Spot": {
+    "name_en": "Tomato Target Spot",
+    "name_ta": "தக்காளி இலக்கு புள்ளி",
+    "description_en": "Fungal disease causing brown spots with concentric rings resembling a target.",
+    "description_ta": "இலக்கு போன்ற வளைய வடிவ பழுப்பு புள்ளிகளை ஏற்படுத்தும் பூஞ்சை நோய்.",
+    "solution_en": "Improve airflow, remove infected leaves, apply fungicide, rotate crops.",
+    "solution_ta": "காற்றோட்டத்தை மேம்படுத்தவும், பாதிக்கப்பட்ட இலைகளை அகற்றவும், பூஞ்சைக் கொல்லி தெளிக்கவும்."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "name_en": "Tomato Yellow Leaf Curl Virus",
+    "name_ta": "தக்காளி மஞ்சள் இலை சுருள் வைரஸ்",
+    "description_en": "Viral disease spread by whiteflies, causing yellowing, upward curling leaves and stunted growth. No cure.",
+    "description_ta": "வெள்ளை ஈக்கள் மூலம் பரவும் வைரஸ் நோய், இலைகள் மஞ்சளாகி மேல்நோக்கி சுருளும். குணப்படுத்த முடியாது.",
+    "solution_en": "Control whiteflies, remove infected plants, use resistant varieties and insect nets.",
+    "solution_ta": "வெள்ளை ஈக்களை கட்டுப்படுத்தவும், பாதிக்கப்பட்ட செடிகளை அகற்றவும், எதிர்ப்பு வகைகளை பயன்படுத்தவும்."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "name_en": "Tomato Mosaic Virus",
+    "name_ta": "தக்காளி மொசைக் வைரஸ்",
+    "description_en": "Viral disease causing mottled light/dark green patterns and leaf distortion. No cure.",
+    "description_ta": "வெளிர்/அடர் பச்சை புள்ளி வடிவங்கள் மற்றும் இலை உருக்குலைவை ஏற்படுத்தும் வைரஸ் நோய். குணப்படுத்த முடியாது.",
+    "solution_en": "Remove and destroy infected plants, disinfect tools, wash hands before handling plants.",
+    "solution_ta": "பாதிக்கப்பட்ட செடிகளை அகற்றி அழிக்கவும், கருவிகளை கிருமி நீக்கம் செய்யவும்."
+  },
+  "Tomato___healthy": {
+    "name_en": "Healthy Tomato Leaf",
+    "name_ta": "ஆரோக்கியமான தக்காளி இலை",
+    "description_en": "No disease detected. The leaf appears healthy.",
+    "description_ta": "நோய் எதுவும் கண்டறியப்படவில்லை. இலை ஆரோக்கியமாக உள்ளது.",
+    "solution_en": "Continue regular care and monitoring.",
+    "solution_ta": "வழக்கமான பராமரிப்பு மற்றும் கண்காணிப்பைத் தொடரவும்."
+  }
+}
